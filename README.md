@@ -24,7 +24,7 @@ Rather than just describing individual columns, this EDA is built around specifi
 - **Streaming success is highly concentrated:** a small number of artists account for a disproportionate share of total streams.
 - **Playlist placement correlates most strongly with Spotify Streams** (~0.8), though this is correlation, not confirmed causation — the dataset is a single snapshot with no timeline.
 - **TikTok virality does not reliably predict Spotify success** — the two are only weakly correlated, even after adjusting for number of TikTok posts.
-- **Explicit content makes no meaningful difference to streaming performance.** A Mann-Whitney U test showed a statistically significant difference (p ≈ 0.0001), but the effect size was essentially zero (rank-biserial ≈ 0.07) — a good example of statistical vs. practical significance.
+- **Explicit content makes no meaningful difference to streaming performance.** Explicit content makes little difference to streaming performance — median streams were close between explicit and non-explicit tracks.
 - **Older songs have a cumulative streaming advantage**, but the actual Top 100 all-time ranks still include plenty of very recent releases.
 - **Cross-platform mismatches are real:** tracks with the largest gap between their best and worst platform tend to be big on YouTube or TikTok but comparatively small on Spotify specifically.
 
