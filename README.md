@@ -38,13 +38,13 @@ Rather than just describing individual columns, this EDA is built around specifi
 
 | File | Description |
 |---|---|
-| `spotify_eda.ipynb` | Full EDA notebook with code, plots, and written analysis |
+| `spotify_EDA_notebook.ipynb` | Full EDA notebook with code, plots, and written analysis |
 | `Most_Streamed_Spotify_Songs_2024.csv` | Raw dataset (source: Kaggle) |
 
 ## How to Run
 
 1. Clone this repository
-2. Install dependencies: `pip install pandas numpy matplotlib seaborn scipy`
+2. Install dependencies: `pip install pandas numpy matplotlib seaborn`
 3. Open `spotify_eda.ipynb` in Jupyter Notebook / JupyterLab / VS Code
 4. Run all cells
 
